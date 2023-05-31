@@ -9,6 +9,7 @@ Aqui voce podera ver todos os projetos Machine Learning.
 - [Sistema de recomendação por imagens](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Sistema-de-recomendacao-por-imagens)
 - [Assistente Virtual](https://github.com/FlaysonSantos/Machine_Learning/tree/main/AssistenteVirtual)
 - [Sistema de Reconhecimento Facial](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Sistema-de-Reconhecimento-Facial)
+- [Housing_Prices](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Housing_Prices)
 
 
 
