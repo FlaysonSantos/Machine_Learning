@@ -10,6 +10,7 @@ Aqui voce podera ver todos os projetos Machine Learning.
 - [Assistente Virtual](https://github.com/FlaysonSantos/Machine_Learning/tree/main/AssistenteVirtual)
 - [Sistema de Reconhecimento Facial](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Sistema-de-Reconhecimento-Facial)
 - [Housing_Prices](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Housing_Prices)
+- [Distributed Training with Keras](https://github.com/FlaysonSantos/Machine_Learning/blob/main/Distributed%20Training%20with%20Keras/keras.ipynb)
 
 
 
