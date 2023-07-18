@@ -16,3 +16,6 @@ Para obter mais informações sobre estratégias, consulte o guia de estratégia
 2. Como criar o modelo Keras.
 3. Como definir os callbacks.
 4. Como treinar e avaliar o modelo.
+
+**Veja o projeto em:**
+- [Distributed Training with Keras](https://github.com/FlaysonSantos/Machine_Learning/blob/main/Distributed%20Training%20with%20Keras/keras.ipynb)
