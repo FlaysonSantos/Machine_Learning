@@ -16,7 +16,7 @@
 
 - No prompt da linha de comando, execute o seguinte comando:
 
-git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+### git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 
 - Para confirmar que você clonou o repositório, clique duas vezes no diretório training-data-analyst e certifique-se de ver seu conteúdo.
 Os arquivos de todos os laboratórios baseados em notebook Jupyter ao longo deste curso estão disponíveis neste diretório.
