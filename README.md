@@ -11,6 +11,7 @@ Aqui voce podera ver todos os projetos Machine Learning.
 - [Sistema de Reconhecimento Facial](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Sistema-de-Reconhecimento-Facial)
 - [Housing_Prices](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Housing_Prices)
 - [Distributed Training with Keras](https://github.com/FlaysonSantos/Machine_Learning/blob/main/Distributed%20Training%20with%20Keras/keras.ipynb)
+- [Classificação de imagens usando aumento de dados](https://github.com/FlaysonSantos/Machine_Learning/tree/main/computer%20vision)
 
 
 
