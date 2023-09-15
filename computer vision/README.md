@@ -8,20 +8,20 @@
 
 - O aumento de dados pode ser usado com eficácia para treinar os modelos de aprendizado profundo. Algumas das transformações simples aplicadas à imagem são; transformações geométricas como inversão, rotação, translação, corte e dimensionamento.
 
-## task 1 Iniciar uma instância do Notebooks
+## Task 1 Iniciar uma instância do Notebooks
 
 - Clonar um repositório de curso  clonar o notebook do analista de dados de treinamento em sua instância do JupyterLab:
 
--- No JupyterLab, para abrir um novo terminal, clique no ícone Terminal .
+- No JupyterLab, para abrir um novo terminal, clique no ícone Terminal .
 
--- No prompt da linha de comando, execute o seguinte comando:
+- No prompt da linha de comando, execute o seguinte comando:
 
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 
 - Para confirmar que você clonou o repositório, clique duas vezes no diretório training-data-analyst e certifique-se de ver seu conteúdo.
 Os arquivos de todos os laboratórios baseados em notebook Jupyter ao longo deste curso estão disponíveis neste diretório.
 
-## task 2 Classificar imagens usando aumento de dados
+## Task 2 Classificar imagens usando aumento de dados
 
 - Na interface do notebook, navegue até training-data-analyst > course > machine_learning > deepdive2 > computer_vision_fun > labs e abra classifying_images_using_data_augmentation.ipynb .
 
