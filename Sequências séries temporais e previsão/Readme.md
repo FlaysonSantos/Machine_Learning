@@ -2,7 +2,7 @@
 
 ## Iremos aborda
 
-Resolver séries temporais e problemas de previsão no TensorFlow
+Como resolver séries temporais e problemas de previsão no TensorFlow
 
 Preparar dados para o aprendizado de séries temporais usando as melhores práticas
 
