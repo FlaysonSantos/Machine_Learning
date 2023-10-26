@@ -1,6 +1,6 @@
 # Sequências, séries temporais e previsão
 
-## Iremos aborda
+## Topicos abordos
 
 Como resolver séries temporais e problemas de previsão no TensorFlow
 
