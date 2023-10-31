@@ -47,4 +47,4 @@ Para executar este código e criar previsões em séries temporais, siga as inst
 
 **Observação**: Certifique-se de ter as dependências do Python instaladas para executar o código com sucesso.
 
-Para informações detalhadas sobre a implementação, leia o código-fonte e consult
+Para informações detalhadas sobre a implementação, leia o código-fonte de consulta
