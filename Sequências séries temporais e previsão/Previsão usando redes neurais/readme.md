@@ -2,6 +2,8 @@
 
 Este projeto demonstra o uso de redes neurais profundas para prever séries temporais sintéticas. A rede neural é treinada e avaliada usando TensorFlow, uma biblioteca popular de aprendizado de máquina e aprendizado profundo. 
 
+[Codigo do projeto](https://github.com/FlaysonSantos/Machine_Learning/blob/main/Sequ%C3%AAncias%20s%C3%A9ries%20temporais%20e%20previs%C3%A3o/Previs%C3%A3o%20usando%20redes%20neurais/Previs%C3%A3o%20usando%20redes%20neurais.ipynb)
+
 ## Resumo do Código
 
 1. **Introdução**
