@@ -1,5 +1,5 @@
 # Apresentação: Sequências, Séries Temporais e Previsão
-# Projetos dentro neste diretorio
+# Projetos neste diretório
 [Previsão de Séries Temporais](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Sequ%C3%AAncias%20s%C3%A9ries%20temporais%20e%20previs%C3%A3o/Previs%C3%A3o%20usando%20redes%20neurais)
 /
 [Previsão usando redes neurais](https://github.com/FlaysonSantos/Machine_Learning/tree/main/Sequ%C3%AAncias%20s%C3%A9ries%20temporais%20e%20previs%C3%A3o/Previs%C3%A3o%20usando%20redes%20neurais)
