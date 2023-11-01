@@ -1,4 +1,4 @@
-# [Projeto Assitente Virtual](https://github.com/FlaysonSantos/Machine_Learning/blob/main/AssistenteVirtual/Assistente_virtual.ipynb)
+# [Projeto Assistente Virtual](https://github.com/FlaysonSantos/Machine_Learning/blob/main/AssistenteVirtual/Assistente_virtual.ipynb)
 
 
 ## Text-to-Speech (TTS) e Speech-to-Text (STT) em Python
