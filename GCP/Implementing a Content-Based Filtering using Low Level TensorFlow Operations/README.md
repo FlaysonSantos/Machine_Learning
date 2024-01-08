@@ -1,4 +1,4 @@
-# Sistema de Recomendação Baseado em Conteúdo para Filmes
+# Leia e veja o projeto em [Sistema de Recomendação Baseado em Conteúdo para Filmes](https://github.com/FlaysonSantos/Machine_Learning/blob/main/GCP/Implementing%20a%20Content-Based%20Filtering%20using%20Low%20Level%20TensorFlow%20Operations/content_based_by_hand.ipynb)
 
 ## Tecnologia Utilizada
 Este código utiliza a biblioteca TensorFlow, uma poderosa ferramenta de aprendizado de máquina e inteligência artificial desenvolvida pelo Google. O TensorFlow permite a criação e treinamento de modelos de machine learning, incluindo redes neurais, e oferece várias ferramentas para manipulação de tensores e cálculos numéricos de alto desempenho.
