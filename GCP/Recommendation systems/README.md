@@ -37,7 +37,7 @@ Este projeto utiliza técnicas de Aprendizado por Reforço para aprimorar sistem
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
 2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o notebook Jupyter: `jupyter notebook nome_do_notebook.ipynb`
+3. Execute o notebook Jupyter: `jupyter notebook exercise_movielens_notebook.ipynb`
 
 ## Contribuições
 
