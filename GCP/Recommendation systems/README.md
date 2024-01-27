@@ -35,9 +35,10 @@ Este projeto utiliza técnicas de Aprendizado por Reforço para aprimorar sistem
 
 ## Como Utilizar
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o notebook Jupyter: `jupyter notebook exercise_movielens_notebook.ipynb`
+1. Clone o repositório: `https://github.com/FlaysonSantos/Machine_Learning.git`
+2. Navegue ate `https://github.com/FlaysonSantos/Machine_Learning/GCP/Recommendation systems`
+3. Instale as dependências: `pip install -r requirements.txt`
+4. Execute o notebook Jupyter: `jupyter notebook exercise_movielens_notebook.ipynb`
 
 ## Contribuições
 
