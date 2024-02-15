@@ -1,6 +1,8 @@
 
 # Aprendizado de Máquina Supervisionado: Regressão e Classificação
 
+## [Notebook do projeto Logistic_Regression](https://github.com/FlaysonSantos/Machine_Learning/blob/main/Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/Logistic_Regression.ipynb)
+
 Este projeto é uma implementação prática de conceitos de aprendizado de máquina, especificamente focado em regressão logística regularizada. Aqui, o especialista em machine learning Flayson Santos apresenta uma série de exercícios resolvidos, abordando desde a implementação de funções básicas até a aplicação de gradient descent para aprender parâmetros ótimos e visualização dos resultados.
 
 Nesta exploração, você vai:
