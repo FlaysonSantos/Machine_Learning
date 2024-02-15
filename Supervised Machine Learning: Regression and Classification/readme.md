@@ -1,7 +1,7 @@
 
 # Aprendizado de Máquina Supervisionado: Regressão e Classificação
 
-Adentre o mundo do aprendizado de máquina supervisionado e descubra as intrincadas técnicas de regressão e classificação. Nesta jornada, explore algoritmos avançados projetados para prever e classificar dados com precisão. Obtenha insights sobre como essas técnicas podem ser aplicadas em diversos cenários do mundo real, capacitando tomadas de decisão mais inteligentes e eficazes.
+Este projeto é uma implementação prática de conceitos de aprendizado de máquina, especificamente focado em regressão logística regularizada. Aqui, o especialista em machine learning Flayson Santos apresenta uma série de exercícios resolvidos, abordando desde a implementação de funções básicas até a aplicação de gradient descent para aprender parâmetros ótimos e visualização dos resultados.
 
 Nesta exploração, você vai:
 
